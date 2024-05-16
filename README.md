@@ -3,6 +3,8 @@
 
 As I started relearning CSS and HTML, I created a master CSS file and gradually added to it. Eventually, I would then apply this master CSS file in various capacities to my other website projects. Niagara is a more open version of such a file, a sort of base stylesheet which can be tweaked.
 
+Since the framework is essentially just a big CSS file, I thought, what's something that *cascades* and that's where the name comes from lol.
+
 ## Using Niagara:
 I've split Niagara into two versions, ``NiagaraFull`` and ``NiagaraSimple``.
 
@@ -20,4 +22,5 @@ I've split Niagara into two versions, ``NiagaraFull`` and ``NiagaraSimple``.
 
 ### Theme:
 
-Niagara directly imports the *Nord* theme instead of defining the color profiles within the file through variables. It does use a few other colors (pure black and white being two) outside of that, but otherwise everything is Nord.
+Niagara implements the Nord theme for the color palette.
+
