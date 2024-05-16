@@ -5,6 +5,8 @@ As I started relearning CSS and HTML, I created a master CSS file and gradually 
 
 Since the framework is essentially just a big CSS file, I thought, what's something that *cascades* and that's where the name comes from lol.
 
+**NOTE: Niagara is VERY, VERY much a work in progress, I'll be contributing to it when I can.**
+
 ## Using Niagara:
 I've split Niagara into two versions, ``NiagaraFull`` and ``NiagaraSimple``.
 
